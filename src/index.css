@@ -38,3 +38,9 @@ body{
   flex: 0.5;
  
 }
+@media (max-width: 600px){
+  .input-h,
+  .input-clock  h2{
+   font-size: 1rem;
+  }
+}
